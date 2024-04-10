@@ -21,3 +21,8 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - `BP_TheMarkOfCain` GameMode
 - `CainLocomotion1D` Blendspace
 - Animation, SFX and Weapons Meshes Pack 
+
+### v[1.0.1] 10-04-2024
+#### Añadido
+- `StatusComponent`
+- `BP_PlayerCombat` UI
