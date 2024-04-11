@@ -32,3 +32,8 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - Stamina Refresh System 
 - Walk/Run mechanic 
 - `IA_Run_Roll_Avoid` Input Action
+
+### v[1.0.3] 11-04-2024
+#### Añadido
+- Walking Mechanic
+- `IA_Walking` Input Action
