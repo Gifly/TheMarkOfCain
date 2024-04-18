@@ -37,3 +37,14 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 #### Añadido
 - Walking Mechanic
 - `IA_Walking` Input Action
+
+### v[1.0.4] 17-04-2024
+#### Añadido
+- `AM_PlayerRoll` Animation Montage
+- `AM_PlayerJumpBackward` Animation Montage
+- `Rolling` Animation 
+- `Jump_Backward` Animation Montage
+### Modificado
+- `ABP_Cain` Invencibility frames
+- `BP_Cain` Roll and Jump Backwards logic 
+- `E_PlayerState` Roll and Jump Backwards added
