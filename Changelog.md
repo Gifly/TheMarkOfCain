@@ -48,3 +48,8 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - `ABP_Cain` Invencibility frames
 - `BP_Cain` Roll and Jump Backwards logic 
 - `E_PlayerState` Roll and Jump Backwards added
+
+
+### v[1.0.5] 17-04-2024
+#### Modificado
+- `BP_Cain` Input Buffer added
