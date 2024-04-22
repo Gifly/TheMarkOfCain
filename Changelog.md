@@ -44,7 +44,7 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - `AM_PlayerJumpBackward` Animation Montage
 - `Rolling` Animation 
 - `Jump_Backward` Animation Montage
-### Modificado
+#### Modificado
 - `ABP_Cain` Invencibility frames
 - `BP_Cain` Roll and Jump Backwards logic 
 - `E_PlayerState` Roll and Jump Backwards added
@@ -53,3 +53,14 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 ### v[1.0.5] 17-04-2024
 #### Modificado
 - `BP_Cain` Input Buffer added
+
+### v[1.0.6] 22-04-2024
+#### Añadido
+- `Hoz` Mesh/Textures  
+- `AM_PlayerLightAttacks` Animation Montages
+- `AM_AttackRunning` Animation Montage
+- `Structure` Animations container
+
+#### Modificado
+- `SK_Manny` RightHandSocket
+- `BP_Cain` Equip Weapon Logic
