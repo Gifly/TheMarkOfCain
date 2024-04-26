@@ -60,7 +60,14 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - `AM_PlayerLightAttacks` Animation Montages
 - `AM_AttackRunning` Animation Montage
 - `Structure` Animations container
-
 #### Modificado
 - `SK_Manny` RightHandSocket
 - `BP_Cain` Equip Weapon Logic
+
+### v[1.0.7] 25-04-2024
+#### Añadido 
+- `IA_PrimaryAttack` Input Action
+#### Modificado
+- Enabled root motion in every animation montage
+- `IMC_Default` added new Input Action
+- `BP_Cain` GetCorrectAttackAnimation and CheckIfCounterExceedsAttack functions added
