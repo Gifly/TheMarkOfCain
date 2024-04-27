@@ -71,3 +71,25 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - Enabled root motion in every animation montage
 - `IMC_Default` added new Input Action
 - `BP_Cain` GetCorrectAttackAnimation and CheckIfCounterExceedsAttack functions added
+
+### v[1.0.8] 27-04-2024
+#### Añadido
+- `AM_EnemyHitFront/Back/Left/Right` Animation Montages
+- `BP_MasterEnemy` General Enemy Blueprint for child creation
+- `E_HitAngle` Enumerator for hit angles
+- `I_Interactions` to comunicate dealing damage between blueprints
+- `UI_HPBarEnemy` UI for enemy health bar
+#### Modificado
+- `ABP_Cain` Line trace logic added
+- Animation Montages StartTrace and EndTrace added
+- `BP_Cain` Dealing Damage Logic 
+- `Status Component` Decrease Health Logic
+- `Receive Damage` Interface added to `BP_MasterEnemy` and `BP_Cain`
+- 
+
+
+
+
+
+
+
