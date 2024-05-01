@@ -85,7 +85,12 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - `BP_Cain` Dealing Damage Logic 
 - `Status Component` Decrease Health Logic
 - `Receive Damage` Interface added to `BP_MasterEnemy` and `BP_Cain`
-- 
+
+### v[1.0.9] 30-04-2024
+#### Añadido 
+- Lock On Mechanic
+#### Modificado
+- Solved animations not running 
 
 
 
