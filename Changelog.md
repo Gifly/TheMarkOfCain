@@ -92,7 +92,9 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 #### Modificado
 - Solved animations not running 
 
-
+### v[1.1.0] 30-05-2024
+#### Añadido 
+- Lvl3 Blocking 
 
 
 
