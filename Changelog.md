@@ -97,6 +97,13 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - Lvl3 Blocking 
 
 
+### v[1.1.1] 30-05-2024
+#### Añadido 
+- Cain Skeletal Mesh
+- Cain Materials
+- Cain Mesh
+- Cain robe with physics
+
 
 
 
