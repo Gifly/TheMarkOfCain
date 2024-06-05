@@ -114,3 +114,7 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - UI mode in Main Menu
 - Sliders for volume in Main Menu
 
+### v[1.1.4] 05-06-2024
+#### Añadido
+- Pause Menu logic
+
