@@ -105,7 +105,12 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - Cain robe with physics
 
 ### v[1.1.2] 05-06-2024
+#### Añadido
 - Main Menu Logic
 
-
+### v[1.1.3] 05-06-2024
+#### Añadido
+- Controls in to main menu
+- UI mode in Main Menu
+- Sliders for volume in Main Menu
 
