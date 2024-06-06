@@ -118,3 +118,8 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 #### Añadido
 - Pause Menu logic
 
+### v[1.1.5] 06-06-2024
+#### Añadido
+- Game Save Audio Logic
+- Audio Sliders working
+
