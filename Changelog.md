@@ -123,3 +123,8 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - Game Save Audio Logic
 - Audio Sliders working
 
+### v[1.1.6] 06-06-2024
+#### Añadido 
+- New Cain Skeletal Mesh 
+- New Cain Textures
+- Provisional Cain Animation
