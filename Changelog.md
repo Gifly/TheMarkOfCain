@@ -128,3 +128,7 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - New Cain Skeletal Mesh 
 - New Cain Textures
 - Provisional Cain Animation
+
+### v[1.1.7] 10-06-2024
+#### Añadido
+- IDLE, RUN, JOG, WALK Animations 
