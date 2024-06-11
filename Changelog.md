@@ -145,3 +145,9 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - FirstHard/Light Animations with montages
 #### Eliminado
 - SecondHard/Light Animations
+
+### v[1.2.0] 10-06-2024
+#### Añadido
+- SecondHard/Light Animation with montages
+#### Eliminado
+- ThirdHard/Light Animations
