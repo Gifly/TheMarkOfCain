@@ -139,3 +139,9 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - Corrected anims
 #### Eliminado
 - FirstHardAttack animation
+
+### v[1.1.9] 10-06-2024
+#### Añadido 
+- FirstHard/Light Animations with montages
+#### Eliminado
+- SecondHard/Light Animations
