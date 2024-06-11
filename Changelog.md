@@ -157,3 +157,7 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 - ThirdHard/Light Animations
 #### Elimine
 - RunAttack animations
+
+### v[1.2.2] 10-06-2024
+#### Añadido
+- RunAttack animation with montage
