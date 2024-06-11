@@ -132,3 +132,10 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 ### v[1.1.7] 10-06-2024
 #### Añadido
 - IDLE, RUN, JOG, WALK Animations 
+
+### v[1.1.8] 10-06-2024
+#### Añadido
+- UI Assets for Main Menu
+- Corrected anims
+#### Eliminado
+- FirstHardAttack animation
