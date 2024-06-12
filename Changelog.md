@@ -165,3 +165,8 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 ### v[1.2.3] 11-06-2024
 #### Eliminado
 - Run animations
+
+### v[1.2.4] 11-06-2024
+#### Añadido
+- Heavy/Light/Run Attacks Corrected with root motion enabled
+- UI Assets added
