@@ -170,3 +170,7 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 #### Añadido
 - Heavy/Light/Run Attacks Corrected with root motion enabled
 - UI Assets added
+
+### v[1.2.5] 12-06-2024
+#### Añadido
+- Catedral 
