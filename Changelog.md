@@ -178,3 +178,7 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 ### v[1.2.6] 12-06-2024
 #### Añadido
 - Video pre Main menu
+
+### v[1.2.7] 13-06-2024
+#### Añadido
+- Abside assets
