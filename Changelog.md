@@ -174,3 +174,7 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 ### v[1.2.5] 12-06-2024
 #### Añadido
 - Catedral 
+
+### v[1.2.6] 12-06-2024
+#### Añadido
+- Video pre Main menu
