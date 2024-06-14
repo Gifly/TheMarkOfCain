@@ -182,3 +182,11 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 ### v[1.2.7] 13-06-2024
 #### Añadido
 - Abside assets
+
+### v[1.2.8] 13-06-2024
+#### Añadido
+- Set dressing 
+
+### v[1.2.9] 13-06-2024
+#### Añadido
+- Line up
