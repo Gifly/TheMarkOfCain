@@ -190,3 +190,13 @@ Este es un archivo para documentar los cambios por cada commit para el proyecto 
 ### v[1.2.9] 13-06-2024
 #### Añadido
 - Line up
+
+### v[1.3.0] 14-06-2024
+#### Añadido
+- Fix camera
+- Music for main menu and lvl3
+- Fix roll anim time
+- Finish Abside
+- Fix music slider in settings menu
+- add Virgen
+- Fix LineUp pawn possesion 
